@@ -1,10 +1,10 @@
 fun main (args: Array<String>){
     // When as Expression
 
-    val x = 2
+    val x = 0
 
     when(x){
-        1 -> println("x is 1")
+        0, 1 -> println("x is 0 or 1")
         2 -> println("x is 2")
 
         else ->{
