@@ -1,6 +1,6 @@
 fun main(args: Array<String>){
 
-    add(2,6)
+    com.kotlinfile.add(2, 6)
 }
 
 fun add(a:Int ,b:Int){
