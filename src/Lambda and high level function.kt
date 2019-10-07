@@ -3,6 +3,7 @@ fun main(args: Array<String>){
 
     val MyLambda:(Int,Int)-> Int ={x:Int,y:Int -> x+y} //Lambda Expression[Function]
     program1.addTwoNumbers1(2,7,MyLambda)
+    program1.addTwoNumbers1(2,7){x,y -> x+y}
 
 
 }
