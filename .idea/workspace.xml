@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="495e1f3e-6197-4955-be41-692f9ff83d15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lambda and high level function.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lambdas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambdas.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,11 +86,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lambdas.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+            <state relative-caret-position="484">
+              <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lambda and high level function.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -151,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/Singleton.kt" />
         <option value="$PROJECT_DIR$/src/com/kotlin/Lambdas.kt" />
         <option value="$PROJECT_DIR$/src/Lambdas.kt" />
+        <option value="$PROJECT_DIR$/src/Lambda and high level function.kt" />
       </list>
     </option>
   </component>
@@ -193,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570466433899" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570466613895" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -215,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.kotlin.LambdasKt">
+  <component name="RunManager" selected="Kotlin.Lambda_and_high_level_functionKt">
     <configuration name="Data_classKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin programe" />
       <option name="VM_PARAMETERS" />
@@ -242,14 +252,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Secondary_constructorsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Lambda_and_high_level_functionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin programe" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Secondary_constructorsKt" />
+      <option name="MAIN_CLASS_NAME" value="Lambda_and_high_level_functionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -283,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Lambda_and_high_level_functionKt" />
         <item itemvalue="Kotlin.com.kotlin.LambdasKt" />
         <item itemvalue="Kotlin.SingletonKt" />
         <item itemvalue="Kotlin.Data_classKt" />
         <item itemvalue="Kotlin.InterfaceKt" />
-        <item itemvalue="Kotlin.Secondary_constructorsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -305,18 +315,18 @@
       <workItem from="1569566676121" duration="21995000" />
       <workItem from="1569996560462" duration="2526000" />
       <workItem from="1570092732694" duration="15141000" />
-      <workItem from="1570373402593" duration="7037000" />
+      <workItem from="1570373402593" duration="8281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47542000" />
+    <option name="totallyTimeSpent" value="48786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21115974" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21115974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,7 +343,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32996634" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33670035" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33670035" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32884398" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -665,8 +675,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lambdas.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        <state relative-caret-position="484">
+          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lambda and high level function.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
         </state>
       </provider>
     </entry>
