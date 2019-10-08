@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="495e1f3e-6197-4955-be41-692f9ff83d15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Map in kotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin programe/List_and_arrayKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin programe/List_and_arrayKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List and array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/List and array.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,11 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/List and array.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="-196">
+              <caret line="4" column="90" selection-start-line="4" selection-start-column="90" selection-end-line="4" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Map in kotlin.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -104,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/With snd Apply in lambda.kt" />
         <option value="$PROJECT_DIR$/src/Collection-array.kt" />
         <option value="$PROJECT_DIR$/src/List and array.kt" />
+        <option value="$PROJECT_DIR$/src/Map in kotlin.kt" />
       </list>
     </option>
   </component>
@@ -140,7 +149,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570545529170" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570547038612" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -162,20 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.List_and_arrayKt">
-    <configuration name="ClosuresKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlin programe" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ClosuresKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Map_in_kotlinKt">
     <configuration name="Collection_arrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin programe" />
       <option name="VM_PARAMETERS" />
@@ -215,6 +211,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Map_in_kotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin programe" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Map_in_kotlinKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="With_snd_Apply_in_lambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin programe" />
       <option name="VM_PARAMETERS" />
@@ -230,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Map_in_kotlinKt" />
         <item itemvalue="Kotlin.List_and_arrayKt" />
         <item itemvalue="Kotlin.Collection_arrayKt" />
         <item itemvalue="Kotlin.With_snd_Apply_in_lambdaKt" />
         <item itemvalue="Kotlin.It_keyword_in_lambda_in_single_parameeterKt" />
-        <item itemvalue="Kotlin.ClosuresKt" />
       </list>
     </recent_temporary>
   </component>
@@ -253,12 +262,12 @@
       <workItem from="1569996560462" duration="2526000" />
       <workItem from="1570092732694" duration="15141000" />
       <workItem from="1570373402593" duration="13761000" />
-      <workItem from="1570544396683" duration="1132000" />
+      <workItem from="1570544396683" duration="2463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55398000" />
+    <option name="totallyTimeSpent" value="56729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="0" width="974" height="1047" extended-state="0" />
@@ -642,8 +651,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/List and array.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="-196">
+          <caret line="4" column="90" selection-start-line="4" selection-start-column="90" selection-end-line="4" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Map in kotlin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
         </state>
       </provider>
     </entry>
