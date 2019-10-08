@@ -6,6 +6,8 @@ var myMap = HashMap<Int ,String>()  //Muatable , Read And Write both , no fixed 
     myMap.put(7,"Bandara")
     myMap.put(8,"Wijepala")
 
+    myMap.replace(8,"Test")
+
     for (key in myMap.keys){
         println("Element at key: $key =${myMap[key]}")
     }
