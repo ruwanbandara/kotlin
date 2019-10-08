@@ -2,7 +2,7 @@ fun main(array: Array<String>){
 
     var list = listOf<String>("Ruwan","Bandara","Wijepala") //immutable,Fixed Size,Read Only\
 
-    var list2 = mutableListOf<String>()
+    var list2 = mutableListOf<String>() //Mutable No fixed size, Can Add or Remove element
 
     list2.add("Nimuth")
     list2.add("Virusara")
